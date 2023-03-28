@@ -1,0 +1,11 @@
+- name: Game Programming
+  percentage: 90
+  color: danger
+
+- name: Project Management
+  percentage: 70
+  color: info
+
+- name: Game Design
+  percentage: 60
+  color:

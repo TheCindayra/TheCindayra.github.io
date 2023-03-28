@@ -1,0 +1,11 @@
+- name: Norwegian
+  percentage: 100
+  color: light
+
+- name: English
+  percentage: 90
+  color: success
+
+- name: Norwegian Sign Language
+  percentage: 10
+  color: dark
