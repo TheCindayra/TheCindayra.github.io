@@ -1,6 +1,6 @@
 - name: Norwegian
   percentage: 100
-  color: light
+  color: danger
 
 - name: English
   percentage: 90
@@ -8,4 +8,4 @@
 
 - name: Norwegian Sign Language
   percentage: 10
-  color: dark
+  color: warning
